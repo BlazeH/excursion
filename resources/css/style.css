@@ -4,11 +4,11 @@ html {
   background-color: black;
   text-align: center;
 }
-.class {
+.link {
   color: Aquamarine;
   font-size: 16px;
 }
-.caption {
+p.caption {
   color: gray;
   font-size: 21px;
 }
@@ -19,7 +19,7 @@ h2 {
   font-size: 42px;
   font weight: 300;
 }
-.footer {
+p.footer {
   color: gray;
   text-align: right;
 }
