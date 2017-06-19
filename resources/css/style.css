@@ -4,3 +4,22 @@ html {
   background-color: black;
   text-align: center;
 }
+.class {
+  color: Aquamarine;
+  font-size: 16px;
+}
+.caption {
+  color: gray;
+  font-size: 21px;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 42px;
+  font weight: 300;
+}
+.footer {
+  color: gray;
+  text-align: right;
+}
